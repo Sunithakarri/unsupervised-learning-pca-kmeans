@@ -17,12 +17,12 @@ This repository contains a Google Colab notebook that demonstrates Principal Com
 To get started, clone the repository and open the notebook in Google Colab:
 
 ```bash
-git clone https://github.com/your-username/pca-and-kmeans-clustering.git
+git clone https://github.com/Sunithakarr/unsupervised-learning-pca-kmeans.git
 
 Go to Google Colab.
 Click "File" -> "Open notebook".
 Select the "GitHub" tab.
-Enter the repository URL: https://github.com/your-username/pca-and-kmeans-clustering.
+Enter the repository URL: https://github.com/Sunithakarri/unsupervised-learning-pca-kmeans.
 Open the notebook and start exploring!
 Dependencies
 The notebook requires the following Python packages:
