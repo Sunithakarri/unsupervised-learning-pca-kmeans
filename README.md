@@ -33,6 +33,3 @@ matplotlib
 scikit-learn
 seaborn
 These dependencies can be installed directly within the Google Colab environment.
-
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
